@@ -1,0 +1,6 @@
+.Ds_store
+
+#Project files
+[Bb]uild/
+
+*.node_modules
